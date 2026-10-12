@@ -1,0 +1,1 @@
+{"name":"afkguard-mineflayer","version":"1.0.0","description":"Mineflayer AFK bot","main":"index.js","scripts":{"start":"node index.js"},"engines":{"node":">=20"},"dependencies":{"mineflayer":"^4.31.0"}}
